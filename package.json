@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DouglasRyan/OfficalWebsite/issues"
   },
-  "homepage": "https://github.com/DouglasRyan/OfficalWebsite#readme"
+  "homepage": "https://github.com/DouglasRyan/OfficalWebsite#readme",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  }
 }
