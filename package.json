@@ -1,0 +1,19 @@
+{
+  "name": "officalwebsite",
+  "version": "1.0.0",
+  "description": "网站的基本框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DouglasRyan/OfficalWebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DouglasRyan/OfficalWebsite/issues"
+  },
+  "homepage": "https://github.com/DouglasRyan/OfficalWebsite#readme"
+}
